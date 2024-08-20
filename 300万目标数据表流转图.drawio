@@ -954,6 +954,14 @@
         <mxCell id="G3AWU1jRuObWYevgA_a2-252" value="数据来源图2.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="835" y="730" width="95" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G3AWU1jRuObWYevgA_a2-253" target="FUmNXfdQJdqJTeTR9aed-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="1660" />
+              <mxPoint x="1180" y="1005" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="G3AWU1jRuObWYevgA_a2-253" value="ods_file_commit_audit&lt;div&gt;（仓库数据审核表）&lt;/div&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="834" y="1475" width="205" height="370" as="geometry" />
         </mxCell>
@@ -1250,7 +1258,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G3AWU1jRuObWYevgA_a2-338" value="DataSea（同步任务）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="489" y="1605" width="130" height="30" as="geometry" />
+          <mxGeometry x="489" y="1620" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G3AWU1jRuObWYevgA_a2-339" value="DataSea（SQL计算任务）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="780" y="450" width="200" height="20" as="geometry" />
