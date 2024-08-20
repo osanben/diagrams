@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="La6mWYt5bWgkOdjxNJI8">
-    <mxGraphModel dx="2440" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3267" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-52" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;strokeWidth=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="150" width="330" height="1790" as="geometry" />
+        </mxCell>
         <mxCell id="_-cT1cNpY737idNF-JOB-36" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;strokeWidth=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="420" y="150" width="710" height="1790" as="geometry" />
         </mxCell>
@@ -1422,6 +1425,33 @@
         </mxCell>
         <mxCell id="FUmNXfdQJdqJTeTR9aed-44" value="DataSea（SQL计算任务）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="830" y="1340" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-45" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;strokeWidth=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="150" width="330" height="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-46" value="GitCode服务与任务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-280" y="155" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FUmNXfdQJdqJTeTR9aed-47" target="G3AWU1jRuObWYevgA_a2-226">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-125" y="1080" />
+              <mxPoint x="780" y="1080" />
+              <mxPoint x="780" y="895" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-47" value="LTS消费任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FUmNXfdQJdqJTeTR9aed-48" target="FUmNXfdQJdqJTeTR9aed-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-48" value="CSDN-AccesLog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-53" value="外部系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-650" y="155" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
