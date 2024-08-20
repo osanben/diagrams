@@ -1460,7 +1460,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FUmNXfdQJdqJTeTR9aed-48" value="CSDN-AccesLog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="1110" width="120" height="60" as="geometry" />
+          <mxGeometry x="-544" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FUmNXfdQJdqJTeTR9aed-53" value="外部系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-650" y="155" width="130" height="20" as="geometry" />
@@ -1471,11 +1471,14 @@
         <mxCell id="FUmNXfdQJdqJTeTR9aed-54" value="RepoGroup-Servie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="245" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FUmNXfdQJdqJTeTR9aed-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FUmNXfdQJdqJTeTR9aed-56" target="G3AWU1jRuObWYevgA_a2-161">
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FUmNXfdQJdqJTeTR9aed-56" target="G3AWU1jRuObWYevgA_a2-173">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FUmNXfdQJdqJTeTR9aed-56" value="AIGC-Task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="805" width="120" height="60" as="geometry" />
+          <mxGeometry x="-196" y="955" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FUmNXfdQJdqJTeTR9aed-58" target="FUmNXfdQJdqJTeTR9aed-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FUmNXfdQJdqJTeTR9aed-58" value="中间页跳转服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="630" width="120" height="60" as="geometry" />
@@ -1491,11 +1494,26 @@
         <mxCell id="FUmNXfdQJdqJTeTR9aed-59" value="GitCode-Task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FUmNXfdQJdqJTeTR9aed-61" value="AIGC文章" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="805" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="FUmNXfdQJdqJTeTR9aed-62" value="UGC文章" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-70" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FUmNXfdQJdqJTeTR9aed-66" target="FUmNXfdQJdqJTeTR9aed-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-66" value="CSDN-BLOG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-545" y="450" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FUmNXfdQJdqJTeTR9aed-68" target="FUmNXfdQJdqJTeTR9aed-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-68" value="CSDN 跳转中间页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-547.5" y="630" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-72" value="AIGC文章" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-75" value="AIGC+UGC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="830" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
