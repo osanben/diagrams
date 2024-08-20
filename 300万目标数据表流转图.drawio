@@ -579,6 +579,9 @@
         <mxCell id="G3AWU1jRuObWYevgA_a2-150" value="CK（Datasea数仓 DWD）&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1170" y="160" width="160" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="FUmNXfdQJdqJTeTR9aed-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G3AWU1jRuObWYevgA_a2-157" target="G3AWU1jRuObWYevgA_a2-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G3AWU1jRuObWYevgA_a2-157" value="文章总表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="760" width="172" height="330" as="geometry" />
         </mxCell>
@@ -947,9 +950,6 @@
         </mxCell>
         <mxCell id="G3AWU1jRuObWYevgA_a2-245" value="DataSea（SQL计算任务）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="980" y="540" width="150" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="G3AWU1jRuObWYevgA_a2-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="G3AWU1jRuObWYevgA_a2-170" target="G3AWU1jRuObWYevgA_a2-198" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G3AWU1jRuObWYevgA_a2-252" value="数据来源图2.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="835" y="730" width="95" height="30" as="geometry" />
